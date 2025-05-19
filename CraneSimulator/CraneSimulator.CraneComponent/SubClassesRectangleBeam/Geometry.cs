@@ -1,6 +1,6 @@
 using System.Text.Json.Serialization;
 
-namespace CraneSimulator.CraneComponent.SubClassesIBeam;
+namespace CraneSimulator.CraneComponent.SubClassesRectangleBeam;
 
 /// <summary>
 /// geometrical properties of the cross-section -> essential to calculate I , W

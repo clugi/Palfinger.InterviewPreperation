@@ -1,6 +1,6 @@
 using System.Reflection;
 using System.Text.Json.Serialization;
-using CraneSimulator.CraneComponent.SubClassesIBeam;
+using CraneSimulator.CraneComponent.SubClassesRectangleBeam;
 
 namespace CraneSimulator.CraneComponent;
 
