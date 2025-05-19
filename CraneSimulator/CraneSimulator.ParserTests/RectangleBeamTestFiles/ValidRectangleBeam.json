@@ -1,0 +1,8 @@
+{
+  "Name": "Crane Girder I-Beam",
+  "MaterialYieldStrengthMPa": 355,
+  "Geometry": {
+    "HeightMm": 600,
+    "WidthMm": 300
+  }
+}

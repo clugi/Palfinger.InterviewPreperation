@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CraneSimulator.Parser", "CraneSimulator.Parser\CraneSimulator.Parser.csproj", "{15849CDF-6610-411F-B24F-40ABB5BC856C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CraneSimulator.ParserTests", "CraneSimulator.ParserTests\CraneSimulator.ParserTests.csproj", "{5CD28A36-2E9B-43DB-925E-014187E95090}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CraneSimulator.CraneComponent", "CraneSimulator.CraneComponent\CraneSimulator.CraneComponent.csproj", "{7B5F54C7-196B-4FDF-B5D5-91EE03BEF55C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15849CDF-6610-411F-B24F-40ABB5BC856C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15849CDF-6610-411F-B24F-40ABB5BC856C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15849CDF-6610-411F-B24F-40ABB5BC856C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15849CDF-6610-411F-B24F-40ABB5BC856C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CD28A36-2E9B-43DB-925E-014187E95090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CD28A36-2E9B-43DB-925E-014187E95090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CD28A36-2E9B-43DB-925E-014187E95090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CD28A36-2E9B-43DB-925E-014187E95090}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B5F54C7-196B-4FDF-B5D5-91EE03BEF55C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B5F54C7-196B-4FDF-B5D5-91EE03BEF55C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B5F54C7-196B-4FDF-B5D5-91EE03BEF55C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B5F54C7-196B-4FDF-B5D5-91EE03BEF55C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

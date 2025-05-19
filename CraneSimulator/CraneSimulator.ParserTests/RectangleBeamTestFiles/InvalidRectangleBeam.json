@@ -1,0 +1,7 @@
+{
+  "Name": "Crane Girder I-Beam",
+  "Geometry": {
+    "HeightMm": 600,
+    "WidthMm": 300
+  }
+}
